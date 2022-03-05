@@ -1,0 +1,76 @@
+
+
+
+.page{
+    
+    width: 780px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    border: 5px solid #232264;
+    border-radius:  20px;
+    box-shadow: 2px 5px 50px rgb(29, 119, 192);
+    padding: 20px;
+}
+body{
+    background-color: rgb(247 245 245);
+}
+
+.infophoto{
+    height: 150px;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.gauche{
+   
+    float: left;
+    
+}
+
+.droite{
+    margin-left: 300px;
+    }
+h2{
+    text-shadow: 1px 2px rgb(48, 49, 30);
+    text-align: center;
+    font-size: 25px;
+    color: #6d5f5c;
+}
+
+h4{
+    color: #256791;
+    text-shadow: 1px 1px 1px;
+    border-bottom: 3px solid #1f08f0;
+}
+
+.poste{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#forma-gauche p{
+    margin-bottom: 50px;
+    margin-top: 0%;
+}
+div class = gauche{
+    
+}
+#etablissement p{
+    margin-top: 32px;
+}
+
+#langage p{
+    margin-top: 32px;
+}
