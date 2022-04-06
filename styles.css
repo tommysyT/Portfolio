@@ -323,24 +323,16 @@
   .project .link--icon {
     margin-left: 0.5em;
   }
-  
-  .skills__list {
-    max-width: 450px;
-    width: 95%;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  
-  .skills__list-item {
-    margin: 0.5em;
-  }
 
   .responsive-img {
-      width: 150px;
-      height: 150px;
-      margin: 0.5em;
+      width: 120px;
+      height: 120px;
+      position: relative;
+      left: 100px;
+      margin-right: 50px;
+      margin-left: 50px;
+      margin-bottom: 15px;
+      border-radius: 5px;
   }
   
   .contact {
