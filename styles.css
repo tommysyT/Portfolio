@@ -341,11 +341,12 @@
   }
 
   .responsive-img {
+      text-align: center;
       width: 120px;
       height: 120px;
       position: relative;
       left: 100px;
-      margin-right: 50px;
+      margin-right: 100px;
       margin-left: 50px;
       margin-bottom: 15px;
       border-radius: 5px;
