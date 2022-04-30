@@ -101,14 +101,13 @@
     Ajustement tableau E5
   ====================*/
   
-  IMG.displayed {
+  img.displayed {
     display: block;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
     height: 1350px;
     position: relative;
-    left: 100px;
-    margin-bottom: 15px;
+    margin-bottom: 150px;
     border-radius: 5px;
   
   }
@@ -280,14 +279,15 @@
   }
   
   .about__desc {
-    font-size: 1rem;
-    max-width: 800px;
+    font-size: 1.2rem;
+    max-width: 1200px;
     
   }
   
   .about__desc,
   .about__contact {
     margin-top: 2.4em;
+    margin-bottom: 50px;
   }
   
   .about .link--icon {
@@ -304,6 +304,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
     grid-gap: 2em;
+    margin-bottom: 150px;
   }
   
   .project {
@@ -340,15 +341,21 @@
     margin-left: 0.5em;
   }
 
+  .skills{
+    margin: auto;
+    
+  }
+
   .responsive-img {
       text-align: center;
-      width: 120px;
-      height: 120px;
+      width: 140px;
+      height: 140px;
       position: relative;
-      left: 100px;
-      margin-right: 100px;
-      margin-left: 50px;
-      margin-bottom: 15px;
+      left: auto;
+      right: auto;
+      margin-right: 40px;
+      margin-left: 40px;
+      margin-bottom: 50px;
       border-radius: 5px;
   }
   
